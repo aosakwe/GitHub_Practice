@@ -1,0 +1,1 @@
+Learned how to manage git repos with fetch, pull, push for working in teams on the same repos
