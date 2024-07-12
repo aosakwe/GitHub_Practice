@@ -1,0 +1,1 @@
+I learned the difference between git and github! Also what the vim function does in the terminal :)
